@@ -1,11 +1,11 @@
 {
-  "name": "hide-twitter-analytics",
+  "name": "hide-twitter-ads",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sai6855/hide-twitter-analytics.git"
+    "url": "git+https://github.com/sai6855/hide-twitter-ads.git"
   },
   "author": "sai6855",
   "license": "ISC"

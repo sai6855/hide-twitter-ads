@@ -1,7 +1,7 @@
 
-# Hide Twitter Analytics Button
+# Hide Twitter Ads
 
-This Chrome extension hides the Twitter analytics button from the Twitter interface. This can be useful if you want to avoid getting distracted by the analytics or if you simply don't use the feature.
+This Chrome extension hides the Twitter ads from the Twitter interface. This can be useful if you want to avoid getting distracted by the ads
 
 
 ## Installation
@@ -9,11 +9,11 @@ This Chrome extension hides the Twitter analytics button from the Twitter interf
 Clone the repo with git
 
 ```bash
-git clone https://github.com/sai6855/hide-twitter-analytics
+git clone https://github.com/sai6855/hide-twitter-ads
 ```
 
 # If git is not installed then
- - click this link (https://github.com/sai6855/hide-twitter-analytics/archive/refs/heads/master.zip)
+ - click this link (https://github.com/sai6855/hide-twitter-ads/archive/refs/heads/master.zip)
  - Unzip
 
 
@@ -22,5 +22,5 @@ git clone https://github.com/sai6855/hide-twitter-analytics
 - In Chrome, go to chrome://extensions.
 - Enable the "Developer mode" toggle in the top right corner.
 - Click on the "Load unpacked" button and select the directory where you downloaded or cloned the extension
-- Usage Once installed, the extension will automatically hide the Twitter analytics button from the Twitter interface when you start scrolling.
+- Usage Once installed, the extension will automatically hide the Twitter ads from the Twitter interface when you start scrolling.
 

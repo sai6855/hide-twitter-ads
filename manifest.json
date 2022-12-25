@@ -1,5 +1,5 @@
 {
-  "name": "hide-twitter-analytics",
+  "name": "hide-twitter-ads",
   "version": "0.1.0",
   "description": "copy-paste-anywhere",
   "permissions": ["storage", "scripting"],

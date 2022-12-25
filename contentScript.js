@@ -1,9 +1,10 @@
 window.addEventListener("scroll", () => {
-  const links = document.getElementsByTagName("a");
-  for (let i = 0; i < links.length; i++) {
-    if (window.location.href.includes("twitter.com"))
-      if (links[i].href.includes("analytics")) {
-        links[i].parentElement.style.display = "none";
+  const elements = document.getElementsByTagName("span");
+  for (let i = 0; i < elements.length - 1; i++) {
+    if (elements[i].innerText.toLowerCase().includes("promoted")) {
+      if (elements[i].closest("article")) {
+        elements[i].closest("article").style.display = "none";
       }
+    }
   }
 });
